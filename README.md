@@ -1,7 +1,7 @@
 ## Привет 👋 я Артем, fullstack developer 
 
 
-## Мой основной стек технологий
+## ⚡️⚡️ Мой основной стек технологий
 
 ### Backend:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,8 +30,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## Другие технологии, которые применял в своих проектах
+## ⚡️ Другие технологии, которые применял в своих проектах
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Bs4](https://img.shields.io/badge/BS4-Beautifulsoup4-silver?style=for-the-badge)
+![Tk](https://img.shields.io/badge/Tk-tkinter-blue?style=for-the-badge)
+
+
 
 ## Связь со мной
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logo=selenium&)
