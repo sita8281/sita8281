@@ -6,8 +6,8 @@
 
 
 ### Messengers:
-![Telegram]()
-<a><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&"></a>
+
+<a href="https://t.me/artem8281"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&"></a>
 
 
 ## ⚡️⚡️ Languages, frameworks and Tools
